@@ -3,3 +3,5 @@ The specific details of the [AAAI2025](https://aaai.org/conference/aaai/aaai-25/
 
 ## Dataset Preparation
 MOSI, MOSEI and CH-SIMS download: [MMSA](https://github.com/thuiar/MMSA/tree/master)
+
+In order to obtain textual emotional descriptions, the source data needs to be preprocessed with OpenFace and openSMILE, please download it yourself.
